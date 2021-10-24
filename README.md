@@ -81,33 +81,126 @@ put to the file:
 
 github.txt 
 
+
 the branch url in content
 
 
-load the sourcode over apicup commmands:
+### load the sourcode over apicup commmands:
 
     sh github clone
 
-check if work
+
+### check if work
 
     sh test
 
 
-create sourceode changes and 
+
+### create sourceode changes and 
 
     sh test
 
-if everything is OK, push on server
+
+### if everything is OK, push on server
 
     sh push
   
-After you finish , please make a MR
+
+### After you finish , please make a MR
 
     sh github mr
  
-codereview
+## codereview
 
 After you finish I will check your code
 If everything will be correct I will merge
 
 if not I will write you some info
+
+
+
+## Zasady pisania
+
++ natywny kod
++ pojedyncze funkcje
++ jedno rezpozytorium zawiera:
+  + plik dokumentacji: README.md
+  + plik konfiguracji (zależności w formacie webstream)
+  + plik kodu: nazwa_funkcji.js
+
+### Kod źródłowy
+Biblioteki/Funkcje podstawowe:
+
+    https://github.com/apifunc/js/tree/master/src
+
+Kod źródłowy Webstream:
+
+    https://github.com/web-stream/src
+
+Biblioteki Funkcje zewnętrzne potrzebne do renderowania, np MARKDOWN
+
+    https://revealjs.com/installation/#full-setup
+
+### kompilowanie pojedynczej funkcji
+
+
+### przygotowanie paczka webstream.min.js
+    
+    clone https://github.com/web-stream/build
+
+win
+
+    build-all.bat
+
+lx (todo)
+
+    build-all.sh
+    
+File [build-all.bat](https://github.com/web-stream/build/blob/main/build-all.bat)
+
+    type ".\src\meta\*.js" > .\jloads.js
+    type ".\src\core\*.js" >> .\jloads.js
+    type "..\apifunc-js\src\*.js" >> .\jloads.js
+    type ".\src\event\*.js" >> .\jloads.js
+    type ".\src\include\*.js" >> .\jloads.js
+    type ".\src\load\*.js" >> .\jloads.js
+    type ".\src\*.js" >> .\jloads.js
+    type ".\src\form\*.js" >> .\jloads.js
+    type ".\src\url\*.js" >> .\jloads.js
+    type ".\src\jloads\*.js" >> .\jloads.js
+    type ".\src\all\*.js" >> .\jloads.js
+    uglifyjs jloads.js -o jloads.min.js -c -m
+
+
+# Środowisko
+
+## Devops
+
+Domena + dns + vps
+
++ dns
+    + cloduflare 
+      + API
+      + SSL
+      + Docker
+      + No Plesk
+    + digitalocean
+      + limit domen 100 ...
+      + plesk
+      + NO VERIFACTION, przypisana lifetime do jednej maszyny/client
+      + 
+    + własny hosting, ionos / NO API
+
+# Komercjalizacja
+
+## Softreck.Cloud
+
+Marketplace providerów
+Integracja API providerów:
++ domen
++ serverów
+
+Udostepnianie usług
+
+
+
