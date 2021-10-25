@@ -9,19 +9,11 @@
 
 
 ## Jakich technologii używamy?
-+ [stack.webstream.dev](https://tools.webstream.dev/)
++ [stack.webstream.dev](https://stack.webstream.dev/)
 
 
 ## Jakie pryncypia stosujemy?
-+ [Webintegration](https://de.wikipedia.org/wiki/Webintegration)
-+ Web is a stream of interfaces, stream of requests [music](https://music.webstream.dev/)
-+ [WebComponents](https://en.wikipedia.org/wiki/Web_Components)
-
-## Czego nie używamy?
-abstrakcji, czyli:
-+ JS typowany - typescript, nie działa w przeglądarce, konieczna kompilacja, jedynie jako kod dodatkowy/źródłowy*
-+ Frameworków - narzucają architekturę/strukturę projektu
-+ Bibliotek poza tymi, które rozwiązują problem funkcjonalny
++ [principles](https://principles.webstream.dev/)
 
 
 ## Jakimi wartościami się kierujemy?
@@ -118,15 +110,6 @@ If everything will be correct I will merge
 if not I will write you some info
 
 
-
-## Zasady pisania
-
-+ natywny kod
-+ pojedyncze funkcje
-+ jedno rezpozytorium zawiera:
-  + plik dokumentacji: README.md
-  + plik konfiguracji (zależności w formacie webstream)
-  + plik kodu: nazwa_funkcji.js
 
 ### Kod źródłowy
 Biblioteki/Funkcje podstawowe:
