@@ -13,14 +13,15 @@
 
 
 ## Jakie pryncypia stosujemy?
-+ [principles](https://principles.webstream.dev/)
++ [principles.webstream.dev](https://principles.webstream.dev/)
 
 
 ## Jakimi wartościami się kierujemy?
-+ Kultura współ-pracy [culture.softreck.dev](https://culture.softreck.dev/)
+jaka kultura pracy panuje podzcas pracy nad projektem?
++ [culture.softreck.dev](https://culture.softreck.dev/)
 
 
-## Twój zespół
+## Nasz -> Twój zespół
 + [team.webstream.dev](https://team.webstream.dev/)
 
 
@@ -155,6 +156,11 @@ File [build-all.bat](https://github.com/web-stream/build/blob/main/build-all.bat
     uglifyjs jloads.js -o jloads.min.js -c -m
 
 
+---
++ [edit](https://github.com/web-stream/start/edit/main/README.md)
 
+```
+https://github.com/web-stream/start.git
+```
 
 
