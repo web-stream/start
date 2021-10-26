@@ -1,8 +1,14 @@
 # [start.webstream.dev](https://start.webstream.dev/)
 
 
-## How to start?
+# How to start?
 
+## Czym jest Webstream?
+
++ [about.webstream.dev](https://about.webstream.dev/#/)
++ [www.webstream.dev](https://about.webstream.dev/#/)
++ [docs.webstream.dev](https://docs.webstream.dev/#/)
++ [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 
 ## Jakich narzędzi używamy?
 + [tools.webstream.dev](https://tools.webstream.dev/)
@@ -26,13 +32,17 @@ jaka kultura pracy panuje podzcas pracy nad projektem?
 
 
 ## Inne projekty do których możesz dołączyć i współtworzyć
-+ [projects.softreck.dev](https://projects.softreck.dev/)
++ [projects.wapka.pl](https://projects.wapka.pl/)
+
+## Jak wesprzeć projekt?
++ [partnership.webstream.dev](https://partnership.webstream.dev/#/)
+
 
 
 
 ### prepare environment:
 
-node js
+    node js
 
 ### prepare projects
 
@@ -72,7 +82,7 @@ every time you are starting the next task, please create the new folder as task 
 
 put to the file:
 
-github.txt 
+    github.txt 
 
 
 the branch url in content
