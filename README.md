@@ -42,23 +42,23 @@ jaka kultura pracy panuje podzcas pracy nad projektem?
 
 ### prepare environment:
 
-    node js
+   node js
 
 ### prepare projects
 
 fork the source of webstream:
 
-  github.com/web-stream/src
+    github.com/web-stream/src
 
 
 fork a examples:
 
-  github.com/web-stream/examples
+    github.com/web-stream/examples
 
 
 create your own repo on your username:
 
-  webstream-examples
+    webstream-examples
 
 
 ### testing
@@ -78,7 +78,7 @@ every time you changed the code or you produced somthing new, check the unittest
 
 every time you are starting the next task, please create the new folder as task number
 
-[webstream main project folder]/[task number]/[webstream sourcode]
+    [webstream main project folder]/[task number]/[webstream sourcode]
 
 put to the file:
 
