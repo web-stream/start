@@ -44,6 +44,14 @@ jaka kultura pracy panuje podzcas pracy nad projektem?
 
 # Start
 
++ Wyslij username pod którym działasz na github
++ po dodaniu i nadaniu praw do pracy z projektem zapoznaj się z listą zadań
+
+## Zadania do wykonania
+
++ [task.webstream.dev](https://task.webstream.dev/#/)
+
+
 
 ### prepare environment:
 
