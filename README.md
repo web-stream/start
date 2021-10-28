@@ -1,30 +1,11 @@
 # [start.webstream.dev](https://start.webstream.dev/)
 
-
-# How to start?
-
 ## Czym jest Webstream?
 
 + [about.webstream.dev](https://about.webstream.dev/#/)
 + [www.webstream.dev](https://about.webstream.dev/#/)
 + [docs.webstream.dev](https://docs.webstream.dev/#/)
 + [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
-
-## Jakich narzędzi używamy?
-+ [tools.webstream.dev](https://tools.webstream.dev/)
-
-
-## Jakich technologii używamy?
-+ [stack.webstream.dev](https://stack.webstream.dev/)
-
-
-## Jakie pryncypia stosujemy?
-+ [principles.webstream.dev](https://principles.webstream.dev/)
-
-
-## Jakimi wartościami się kierujemy?
-jaka kultura pracy panuje podzcas pracy nad projektem?
-+ [culture.softreck.dev](https://culture.softreck.dev/)
 
 
 ## Nasz -> Twój zespół
@@ -33,6 +14,7 @@ jaka kultura pracy panuje podzcas pracy nad projektem?
 
 ## Inne projekty do których możesz dołączyć i współtworzyć
 + [projects.wapka.pl](https://projects.wapka.pl/)
+
 
 ## Jak wesprzeć projekt?
 + [partnership.webstream.dev](https://partnership.webstream.dev/#/)
@@ -125,8 +107,11 @@ the branch url in content
 ### After you finish , please make a MR
 
     sh github mr
- 
-## codereview
+
+
+
+
+# codereview
 
 After you finish I will check your code
 If everything will be correct I will merge
@@ -135,7 +120,8 @@ if not I will write you some info
 
 
 
-### Kod źródłowy
+## Kod źródłowy
+
 Biblioteki/Funkcje podstawowe:
 
     https://github.com/apifunc/js/tree/master/src
@@ -177,6 +163,8 @@ File [build-all.bat](https://github.com/web-stream/build/blob/main/build-all.bat
     type ".\src\jloads\*.js" >> .\jloads.js
     type ".\src\all\*.js" >> .\jloads.js
     uglifyjs jloads.js -o jloads.min.js -c -m
+
+
 
 
 ---
