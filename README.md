@@ -5,7 +5,6 @@
 + [about.webstream.dev](https://about.webstream.dev/#/)
 + [www.webstream.dev](https://about.webstream.dev/#/)
 + [docs.webstream.dev](https://docs.webstream.dev/#/)
-+ [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 
 
 ## Nasz -> Twój zespół
