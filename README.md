@@ -40,7 +40,12 @@
 
    node js
 
-### prepare projects
+### Prepare a github project
+there are two ways, with branch per ticket
+or without direclty to master.
+If there are working many people on some repository
+we need use Merge Request
+
 
 fork the source of webstream:
 
