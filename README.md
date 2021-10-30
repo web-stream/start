@@ -33,6 +33,8 @@
 + [task.webstream.dev](https://task.webstream.dev/#/)
 
 
+# Environment
+
 
 ### prepare environment:
 
@@ -106,6 +108,39 @@ the branch url in content
 ### After you finish , please make a MR
 
     sh github mr
+
+
+
+# DevOps
+
+# First Steps with .apicra
+
+## on linux
+
+### install
+    sh .apicra/install
+
+install promagen
+
+    sh .apicra/promagen
+
+### start
+    sh .apicra/start
+
+### open in browser
+    sh .apicra/browser
+
+## on windows
+
+### install
+    .apicra\install.bat
+
+### start
+    .apicra\start.bat
+
+
+### open in browser
+    .apicra\browser.bat
 
 
 
