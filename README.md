@@ -26,9 +26,9 @@
 
 ## share your username
 
-+ Wyslij username pod którym działasz na github
++ Wyślij username pod którym działasz na github
 
-+ [github-username.webstream.dev](https://github-username.webstream.dev/#/)
++ [username.webstream.dev](https://username.webstream.dev/#/)
 
 + po dodaniu i nadaniu praw do pracy z projektem zapoznaj się z listą zadań
 
