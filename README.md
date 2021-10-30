@@ -22,27 +22,29 @@
 ## Jakie mamy plany?
 + [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 
+# Github
 
-# Start
+## share your username
 
 + Wyslij username pod którym działasz na github
+
++ [github-username.webstream.dev](https://github-username.webstream.dev/#/)
+
 + po dodaniu i nadaniu praw do pracy z projektem zapoznaj się z listą zadań
 
-## Zadania do wykonania
+
+## Start work with project repository on Github
+
+get the task from the list
 
 + [task.webstream.dev](https://task.webstream.dev/#/)
 
 
-# Environment
+## Prepare a github project
 
-
-### prepare environment:
-
-   node js
-
-### Prepare a github project
 there are two ways, with branch per ticket
 or without direclty to master.
+
 If there are working many people on some repository
 we need use Merge Request
 
@@ -61,6 +63,15 @@ create your own repo on your username:
 
     webstream-examples
 
+
+
+
+# Environment
+
+
+### prepare environment:
+
+   node js
 
 ### testing
 
