@@ -30,6 +30,8 @@
 
 + [username.webstream.dev](https://username.webstream.dev/#/)
 
+https://github.com/web-stream/task/settings/access?guidance_task=
+
 + po dodaniu i nadaniu praw do pracy z projektem zapoznaj się z listą zadań
 
 
